@@ -62,4 +62,4 @@ class BunyanTelegramBote extends Stream {
     }
 }
 
-module.exports = BunyanNodeMailer
+module.exports = BunyanTelegramBote
